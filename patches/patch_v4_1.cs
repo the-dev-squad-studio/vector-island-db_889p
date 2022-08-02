@@ -6,6 +6,7 @@ public class Patch_v4_1 : MonoBehaviour {
     { 
         Debug.Log("PATCH WORKS!!");
         GamePatchSystem.patchAction += () => {
+            Debug.Log("NOTIFICATION PATCH WORKS!!");
             IG.System.UI.instance.Notification.NewNotification("Patch has been added");
         };
     }
