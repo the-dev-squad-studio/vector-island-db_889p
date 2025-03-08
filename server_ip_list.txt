@@ -1,8 +1,1 @@
-y6r2ws.colyseus.in:2567
-icqwhy.colyseus.in:2567
-vi-game-server-v1.herokuapp.com
-vi-game-server-2.herokuapp.com
-vi-game-server-3.herokuapp.com
-vi-game-server-4.herokuapp.com
-vi-game-server-5.herokuapp.com
-y6r2ws.colyseus.in:2567
+192.168.1.123
